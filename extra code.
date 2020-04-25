@@ -1,0 +1,38 @@
+  <section>
+       <div class="row">
+        <div class="col-md-12 written text-center">
+                
+            <h2 class="text-uppercase mt-0 line-height-1 texte">What we <span class="textee font-weight-600">are doing</span></h2>
+            <div class="title-icon">
+                <img src="images/favicon.png" style="height: 40px; max-width: 160px;">
+            </div>
+        </div>
+       </div>
+
+       <div class="row container rowy">
+           <div class="col-md-4">
+               <div class="card text-center">
+                   <div class="card-body">
+                      <img src="images/onlinesadqah.png" alt="">
+                      <h2 class="text-uppercase mt-0 line-height-1 texty" >online sadqa</h2>
+                   </div>
+               </div>
+           </div>
+           <div class="col-md-4">
+            <div class="card text-center">
+                <div class="card-body">
+                   <img src="images/onlinesadqah.png" alt="">
+                   <h2 class="text-uppercase mt-0 line-height-1 texty" >online sadqa</h2>
+                </div>
+            </div>
+           </div>
+           <div class="col-md-4">
+            <div class="card text-center">
+                <div class="card-body">
+                   <img src="images/onlinesadqah.png" alt="">
+                   <h2 class="text-uppercase mt-0 line-height-1 texty" >online sadqa</h2>
+                </div>
+            </div>
+           </div>
+       </div>
+   </section>

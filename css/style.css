@@ -1,0 +1,182 @@
+*
+{
+    padding: 0;
+    margin: 0;
+
+}
+.showcase
+{
+    background-color: #316DC3;
+    padding-top: 10px;;
+}
+.first
+{
+    margin-left: 20px;
+}
+.wrapper
+{
+    padding: 5px 5px 5px 5px;
+    background-color: #316DC3;
+
+}
+.one 
+{
+    margin-top: 10px;
+    padding: 3px;
+    
+}
+.one btn a{
+    text-decoration: none;
+    list-style: none;  
+    color: #427900 ;
+    border: 1px solid white; 
+    background-color: white !important;
+
+}
+
+.list button a{
+    padding: 10px;;
+}
+.styled-icons li{
+    display:inline-block ;
+    padding: 10px;
+    
+    
+    
+}
+.logo
+{
+    padding-left: 70px;
+}
+
+
+.two li{
+    list-style: none;
+    display: inline-block;
+    display: flex;
+    padding: 1px;
+}
+.btn{
+    
+    display: inline-block;
+    display: inline;
+    display: flex;
+
+    
+}
+.nav-link{
+  display: inline-flex;
+}
+.navbar-nav li a{
+    font-size: 16px;
+}
+.navbar-nav li a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    font-family: 'PT Serif', serif;
+    padding: 5px;
+}
+.navbar-nav li a:hover{
+   
+    color: black;
+    border-radius: 50px solid white;
+    background-color: white;
+}
+.title-icon img
+{
+   
+}
+.none
+{
+    margin-top: 10px;
+}
+.written
+{
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 30px;
+    padding-top: 10px;;
+}
+.textee
+{
+    color: #427900;
+}
+.texte{
+    color:#316DC3 ;
+    font-weight: 600;
+    font-family: 'PT Serif', serif;
+
+}
+.texty
+{
+    font-family: 'PT Serif', serif;   
+    font-size: 20px;
+    color:#316DC3 ;
+    margin-top: 10px;
+
+}
+.card
+{
+    max-width: 400px;
+}
+.sect
+{
+    background-color: #316DC3 ;
+    
+
+}
+.desto
+{
+    padding: 100px 0px 100px;
+   
+    
+}
+.clasic
+{
+    font-size: 14px;
+    font-family: 'PT Serif', serif;
+}
+.missin
+{
+    font-size: 24px;
+    font-family: 'PT Serif', serif;
+}
+.fonto
+{
+    font-size: 50px;
+    font-family: 'PT Serif', serif;
+}
+.card{
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+}
+.samosa li
+{
+    font-size: 18px;
+    font-family: 'PT Serif', serif;
+    list-style: none;
+    padding: 10px;
+    padding-left: 20px;
+}
+
+.hera
+{
+    padding-top: 10px;
+    color: #316DC3;
+}
+.gallery
+{
+    margin-top: 80px;
+}
+#footer
+{
+    color: white;
+}
+.iee i{
+ color: #427900;
+ font-size: 14px;
+}
+.extr
+{
+    padding: 60px 60px 60px 60px;
+}
